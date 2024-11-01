@@ -1,6 +1,5 @@
 # Análise de Despesas em Viagens Públicas - Projeto Python
-Descrição do Projeto
-Este projeto realiza uma análise de dados de viagens públicas obtidas do Portal da Transparência, com o objetivo de extrair informações valiosas sobre as despesas associadas a diferentes cargos públicos em 2023. O projeto inclui uma análise descritiva para gerar resumos estatísticos e uma análise exploratória focada na identificação e detalhamento de outliers.
+Neste projeto foi realizado uma análise de dados de viagens públicas obtidas do Portal da Transparência, com o objetivo de extrair informações valiosas sobre as despesas associadas a diferentes cargos públicos em 2023. O projeto inclui uma análise descritiva para gerar resumos estatísticos e uma análise exploratória focada na identificação e detalhamento de outliers.
 
 ## Objetivos
 - Consolidar as despesas de viagens públicas por cargo.
